@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿namespace EditorDeTextos;
+
+internal class Program
 {
     public static void Main(string[] args)
     {
